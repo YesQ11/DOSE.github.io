@@ -1,6 +1,6 @@
 # Nerfies
 
-This is the repository that contains source code for the [DOSE+ website](https://github.com/YesQ11/DOSE.github.io).
+This is the repository that contains source code for the [DOSE+ website](https://yesq11.github.io/DOSE.github.io/).
 
 If you find Nerfies useful for your work please cite:
 ```
