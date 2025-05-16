@@ -1,6 +1,6 @@
 # DOSE+
 
-This is the repository that contains samples for [DOSE+](https://yesq11.github.io/DOSE.github.io/).
+This is the repository that contains samples for [DOSE+](https://yesq11.github.io/DOSEPLUS).
 
 If you find DOSE+ useful for your work please cite:
 ```
